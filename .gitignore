@@ -1,0 +1,4 @@
+#Environment files
+.env
+#python virtual environments
+myenv/
