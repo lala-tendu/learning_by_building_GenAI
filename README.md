@@ -1,37 +1,54 @@
-🚀 Learning by Building – GenAI
+# 🚀 Learning by Building – GenAI
 
-Learning Generative AI by building real-world, hands-on projects.
-This repository documents my journey of understanding LLMs, prompt engineering, AI-powered applications, and automation by building projects from scratch.
+**Learning Generative AI by building real-world, hands-on projects.**  
+This repository documents my journey of understanding **LLMs, prompt engineering, AI-powered applications, and automation** by building projects from scratch.
 
-📌 Why this repository?
+---
+
+## 📌 Why this repository?
 
 Instead of only consuming tutorials, this repo focuses on:
-🧠 Learning GenAI concepts by implementation
-🛠️ Building small → medium → real-world projects
-📖 Sharing learnings openly (learning in public)
 
-🛠 Tech Stack
+- 🧠 Learning GenAI concepts by implementation  
+- 🛠️ Building small → medium → real-world projects  
+- 📖 Sharing learnings openly (**learning in public**)  
 
-Language: Python
+---
 
-LLMs: OpenAI / Azure OpenAI (experimenting)
-Frameworks: FastAPI / Streamlit (as needed)
-Tools: Git, GitHub, VS Code
-Concepts: Prompt engineering, API integration
+## 🛠 Tech Stack
 
-🧠 Today I Learned
+- **Language:** Python  
+- **LLMs:** OpenAI / Azure OpenAI *(experimenting)*  
+- **Frameworks:** FastAPI / Streamlit *(as needed)*  
+- **Tools:** Git, GitHub, VS Code  
+- **Concepts:** Prompt engineering, API integration  
 
-Prompt Engineering
-Zero-shot, Few-shot prompting, Chain-of-Thought reasoning
-Large Language Models(LLMs)
+---
 
-🤝 Contributions & Feedback
+## 🧠 Today I Learned
 
-Feedback, suggestions, and improvements are welcome.
-If you’re also learning GenAI, feel free to fork, star, or discuss.
+### Prompt Engineering
+- Zero-shot prompting  
+- Few-shot prompting  
+- Chain-of-Thought reasoning  
 
-🔗 Connect With Me
+### Large Language Models (LLMs)
 
-💼 LinkedIn: https://www.linkedin.com/in/lalatendutripathy/
-🐦 X (Twitter): https://x.com/Tripathy_2002
-🧠 Learning updates: Coming soon
+---
+
+## 🤝 Contributions & Feedback
+
+Feedback, suggestions, and improvements are welcome.  
+If you’re also learning GenAI, feel free to **fork, star, or start a discussion**.
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 **LinkedIn:** [Lalatendu Tripathy](https://www.linkedin.com/in/lalatendutripathy/)  
+- 🐦 **X (Twitter):** [@Tripathy_2002](https://x.com/Tripathy_2002)  
+- 🧠 **Learning updates:** Coming soon  
+
+---
+
+⭐ If this repository helps you, consider giving it a **star**!
