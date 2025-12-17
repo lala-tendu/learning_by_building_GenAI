@@ -25,13 +25,6 @@ Instead of only consuming tutorials, this repo focuses on:
 
 ---
 
-## 🧠 Today I Learned
-
-- Prompt Engineering
-- Large Language Models (LLMs)
-
----
-
 ## Projects
 
 - Basic Conversational chatbot
