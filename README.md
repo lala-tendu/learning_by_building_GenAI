@@ -25,14 +25,9 @@ Instead of only consuming tutorials, this repo focuses on:
 
 ---
 
-## 🧠 Today I Learned
+## Projects
 
-### Prompt Engineering
-- Zero-shot prompting  
-- Few-shot prompting  
-- Chain-of-Thought reasoning  
-
-### Large Language Models (LLMs)
+- Basic Conversational chatbot
 
 ---
 
